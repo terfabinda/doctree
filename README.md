@@ -1,3 +1,5 @@
+![Logo](doctree.png)
+
 # 🌲 DocTree – Project Structure Generator
 
 Generate clean, readable directory trees for your `README.md` instantly.  

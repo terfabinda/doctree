@@ -5,6 +5,7 @@
   "description": "Generates clean, readable project structure trees for README.md with smart abbreviation for large projects",
   "version": "0.0.1",
   "publisher": "terfabinda",
+  "icon": "doctree.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/terfabinda/doctree.git"
