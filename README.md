@@ -86,6 +86,10 @@ This extension follows [Visual Studio Code Extension Guidelines](https://code.vi
 
 ---
 
+Also available as `npx doctree` for those who are cli inclined.
+
+---
+
 ## 🤝 Feedback & Support
 
 We'd love to hear from you!
