@@ -3,7 +3,7 @@
   "license": "MIT",
   "displayName": "DocTree",
   "description": "Generates clean, readable project structure trees for README.md with smart abbreviation for large projects",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "publisher": "terfabinda",
   "icon": "doctree.png",
   "repository": {
